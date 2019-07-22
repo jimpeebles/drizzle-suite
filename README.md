@@ -39,6 +39,6 @@
       ```sh
       $ git clone git@github.com:cds-amal/drizzle-box.git dbox-mono-test
       $ cd dbox-mono-test
-      $ git checkout mono-repo
+      $ git checkout chore/mono-repo
       ```
 
